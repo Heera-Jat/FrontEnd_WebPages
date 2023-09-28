@@ -1,3 +1,13 @@
-# Frontend Mentor - QR code component solution
+# Web page link - QR code component 
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+ [QR code component](https://qr-code-profiles.vercel.app/)
+
+# Benifits of This web page
+
+- Easy sharing of your GitHub profile in physical settings.
+- Resume and portfolio enhancement for showcasing coding skills.
+- Contribution to personal branding and online presence.
+- Convenience for mobile users to quickly access your profile.
+- Efficient networking at tech events, conferences and collaborators.
+- Useful for educators or mentors directing students to resources.
+- Inclusion in social media profiles and email signatures.
