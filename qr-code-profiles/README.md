@@ -1,8 +1,8 @@
-# Web page link - QR code component 
+## Web page link👇 - QR code component 
 
- [QR code component](https://qr-code-profiles.vercel.app/)
+ ⏩[QR code component](https://qr-code-profiles.vercel.app/)
 
-# Benifits of This web page
+##📌 Benifits of This web page
 
 - Easy sharing of your GitHub profile in physical settings.
 - Resume and portfolio enhancement for showcasing coding skills.
