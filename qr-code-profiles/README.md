@@ -5,7 +5,7 @@
 ### 📌 Benifits of This web page
 
 - Easy sharing of your GitHub profile in physical settings.
-- Resume and portfolio enhancement for showcasing coding skills.
+- Resume and portfolio enhancement for showcasing coding skill.
 - Contribution to personal branding and online presence.
 - Convenience for mobile users to quickly access your profile.
 - Efficient networking at tech events, conferences and collaborators.
